@@ -3,6 +3,7 @@
 //Crie uma div no componente que dentro dela mostre um <p> contendo o valor da variável
 
 export default MeuComponente;
+
 import "./MeuComponente.css"
 function MeuComponente() {
     let variavel = "Meu componente"
@@ -12,3 +13,4 @@ function MeuComponente() {
       </>
     )
   }
+
